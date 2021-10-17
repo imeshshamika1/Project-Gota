@@ -27,7 +27,7 @@
         "LANGUAGE": {
             "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
             "required": true,
-            "value": "si"
+            "value": "SI"
         },
         "WELCOME": {
             "description": "Welcome message type pp or gif",
